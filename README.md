@@ -1,7 +1,7 @@
 # MetaTrader4-heiken-Ashi-trading-system
 A heiken Ashi indicator trading system
 
-Metatrader 4 System
+You need a Metatrader 4 editor to visualize this code (remember .ex4 are executable, so you cant see the code)
 
 varibles to create
 time frame
